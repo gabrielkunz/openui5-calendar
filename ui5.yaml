@@ -1,6 +1,6 @@
 specVersion: '2.1'
 metadata:
-  name: openui5-basic-template-app
+  name: calendar-app
 type: application
 framework:
   name: OpenUI5

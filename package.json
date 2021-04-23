@@ -1,7 +1,7 @@
 {
-  "name": "openui5-basic-template-app",
+  "name": "calendar",
   "version": "0.1.0",
-  "description": "Best-practice starting point for building a freestyle app",
+  "description": "Calendar app using OpenUI5",
   "private": true,
   "scripts": {
     "start": "ui5 serve",
